@@ -31,7 +31,7 @@
         android:layout_below="@id/profileImage"
         android:layout_centerHorizontal="true"
         android:layout_marginTop="20dp"
-        android:text="Johan Smith"
+        android:text="Mai Phuong"
         android:textSize="20sp"
         android:textColor="#000000"
         android:fontFamily="sans-serif-medium"/>
@@ -43,7 +43,7 @@
         android:layout_height="wrap_content"
         android:layout_below="@id/nameText"
         android:layout_centerHorizontal="true"
-        android:text="California, USA"
+        android:text="HCM, VN"
         android:textSize="14sp"
         android:textColor="#888888"
         android:layout_marginTop="10dp"/>
