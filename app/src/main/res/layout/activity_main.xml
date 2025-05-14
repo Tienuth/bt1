@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:id="@+id/main"
+    android:padding="16dp"
+    android:orientation="vertical"
+    android:gravity="center" >
+
+
+    <!-- Image View for Profile Picture -->
+    <ImageView
+        android:id="@+id/profileImage"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="40dp"
+        android:src="@drawable/test"
+        android:contentDescription="Profile Picture"
+        android:background="@drawable/cir"
+        android:scaleType="centerCrop"
+        android:clipToOutline="true"
+        android:outlineProvider="background"
+        />
+
+    <!-- Name Text -->
+    <TextView
+        android:id="@+id/nameText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/profileImage"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="Johan Smith"
+        android:textSize="20sp"
+        android:textColor="#000000"
+        android:fontFamily="sans-serif-medium"/>
+
+    <!-- Location Text -->
+    <TextView
+        android:id="@+id/locationText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/nameText"
+        android:layout_centerHorizontal="true"
+        android:text="California, USA"
+        android:textSize="14sp"
+        android:textColor="#888888"
+        android:layout_marginTop="10dp"/>
+
+
+</RelativeLayout>

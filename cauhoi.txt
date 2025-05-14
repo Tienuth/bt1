@@ -1,0 +1,4 @@
+câu 1: 
+Mong muốn của em sau khi học xong môn học này là thành thạo được kotlin và android studio để có thể tự tao được những ứng dụng cho người dùng trải nghiệm và kiếm được thu nhập từ chplay giống thầy.
+câu 2:
+trong 10 năm nữa lập trình di động vẫn phát triển tốt. Vì bây giờ đa số mọi người đều có điện thoại thông minh và con người đang lệ thuộc rất nhiều vào điện thoại do vậy nhu cầu về các app mobile là rất cần thiết với nhu cầu người dùng.
